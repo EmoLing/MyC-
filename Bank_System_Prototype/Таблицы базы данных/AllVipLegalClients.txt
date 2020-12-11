@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[AllVipLegalClients] (
+    [Id]                INT             NOT NULL,
+    [Name]              NVARCHAR (50)   NOT NULL,
+    [DateOfBirth]       DATE            NOT NULL,
+    [Department]        NVARCHAR (50)   NOT NULL,
+    [AccountNumber]     INT             NOT NULL,
+    [AmountOfMoney]     DECIMAL (18)    NOT NULL,
+    [CheckContribution] DECIMAL (18, 2) NOT NULL,
+    [CheckDebt]         DECIMAL (18, 2) NOT NULL,
+    PRIMARY KEY NONCLUSTERED ([Id] ASC)
+);
+

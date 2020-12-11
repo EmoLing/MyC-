@@ -1,0 +1,16 @@
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.exe
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.deps.json
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.runtimeconfig.dev.json
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.dll
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\WeatherBotNetCore.pdb
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\bin\Realese\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.dll
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.pdb
+C:\Users\Xiaomi\Desktop\netcoreBotWeather\WeatherBotNetCore\WeatherBotNetCore\obj\Realese\netcoreapp3.1\WeatherBotNetCore.genruntimeconfig.cache

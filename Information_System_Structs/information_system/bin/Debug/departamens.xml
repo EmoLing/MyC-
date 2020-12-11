@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfDepartametns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Departametns>
+    <Number>1</Number>
+    <Name>Отдел_1</Name>
+    <Date_Of_Create>2010-08-04T00:00:00</Date_Of_Create>
+    <Number_Of_Workers>2</Number_Of_Workers>
+  </Departametns>
+  <Departametns>
+    <Number>2</Number>
+    <Name>Отдел_2</Name>
+    <Date_Of_Create>2009-05-11T00:00:00</Date_Of_Create>
+    <Number_Of_Workers>3</Number_Of_Workers>
+  </Departametns>
+  <Departametns>
+    <Number>3</Number>
+    <Name>Отдел_3</Name>
+    <Date_Of_Create>2011-09-14T00:00:00</Date_Of_Create>
+    <Number_Of_Workers>3</Number_Of_Workers>
+  </Departametns>
+  <Departametns>
+    <Number>4</Number>
+    <Name>Отдел_4</Name>
+    <Date_Of_Create>2008-06-14T00:00:00</Date_Of_Create>
+    <Number_Of_Workers>2</Number_Of_Workers>
+  </Departametns>
+</ArrayOfDepartametns>

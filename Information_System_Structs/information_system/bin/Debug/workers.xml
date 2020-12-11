@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <Number>1</Number>
+    <FirstName>           Имя_ 1</FirstName>
+    <LastName>       Фамилия_ 1</LastName>
+    <Age>55</Age>
+    <Department>Отдел_1</Department>
+    <Salary>21731</Salary>
+    <NumberOfProject>2</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>2</Number>
+    <FirstName>           Имя_ 2</FirstName>
+    <LastName>       Фамилия_ 2</LastName>
+    <Age>28</Age>
+    <Department>Отдел_1</Department>
+    <Salary>47673</Salary>
+    <NumberOfProject>2</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>3</Number>
+    <FirstName>           Имя_ 3</FirstName>
+    <LastName>       Фамилия_ 3</LastName>
+    <Age>57</Age>
+    <Department>Отдел_2</Department>
+    <Salary>34074</Salary>
+    <NumberOfProject>5</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>4</Number>
+    <FirstName>           Имя_ 4</FirstName>
+    <LastName>       Фамилия_ 4</LastName>
+    <Age>39</Age>
+    <Department>Отдел_2</Department>
+    <Salary>57744</Salary>
+    <NumberOfProject>2</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>5</Number>
+    <FirstName>           Имя_ 5</FirstName>
+    <LastName>       Фамилия_ 5</LastName>
+    <Age>34</Age>
+    <Department>Отдел_2</Department>
+    <Salary>47000</Salary>
+    <NumberOfProject>6</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>6</Number>
+    <FirstName>           Имя_ 6</FirstName>
+    <LastName>       Фамилия_ 6</LastName>
+    <Age>43</Age>
+    <Department>Отдел_3</Department>
+    <Salary>41315</Salary>
+    <NumberOfProject>6</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>7</Number>
+    <FirstName>           Имя_ 7</FirstName>
+    <LastName>       Фамилия_ 7</LastName>
+    <Age>57</Age>
+    <Department>Отдел_3</Department>
+    <Salary>49318</Salary>
+    <NumberOfProject>1</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>8</Number>
+    <FirstName>           Имя_ 8</FirstName>
+    <LastName>       Фамилия_ 8</LastName>
+    <Age>62</Age>
+    <Department>Отдел_3</Department>
+    <Salary>34617</Salary>
+    <NumberOfProject>1</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>9</Number>
+    <FirstName>           Имя_ 9</FirstName>
+    <LastName>       Фамилия_ 9</LastName>
+    <Age>32</Age>
+    <Department>Отдел_4</Department>
+    <Salary>10866</Salary>
+    <NumberOfProject>9</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>10</Number>
+    <FirstName>           Имя_10</FirstName>
+    <LastName>       Фамилия_10</LastName>
+    <Age>61</Age>
+    <Department>Отдел_4</Department>
+    <Salary>45988</Salary>
+    <NumberOfProject>8</NumberOfProject>
+  </Worker>
+  <Worker>
+    <Number>11</Number>
+    <FirstName>            Artem</FirstName>
+    <LastName>        Selivanov</LastName>
+    <Age>23</Age>
+    <Department>Отдел_4</Department>
+    <Salary>50000</Salary>
+    <NumberOfProject>5</NumberOfProject>
+  </Worker>
+</ArrayOfWorker>

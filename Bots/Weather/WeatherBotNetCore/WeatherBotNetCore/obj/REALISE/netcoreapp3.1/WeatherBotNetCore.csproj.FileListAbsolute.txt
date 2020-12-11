@@ -1,0 +1,16 @@
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.exe
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.deps.json
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.runtimeconfig.json
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.runtimeconfig.dev.json
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.dll
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\WeatherBotNetCore.pdb
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\bin\REALISE\netcoreapp3.1\Telegram.Bot.dll
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.csprojAssemblyReference.cache
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.AssemblyInfoInputs.cache
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.AssemblyInfo.cs
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.csproj.CoreCompileInputs.cache
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.csproj.CopyComplete
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.dll
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.pdb
+D:\SkillBox\testTime\WeatherBotNetCore\WeatherBotNetCore\obj\REALISE\netcoreapp3.1\WeatherBotNetCore.genruntimeconfig.cache

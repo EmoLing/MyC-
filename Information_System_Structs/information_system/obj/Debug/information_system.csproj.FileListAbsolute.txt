@@ -1,0 +1,10 @@
+D:\SkillBox\дз8\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз8\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз8\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз8\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\SkillBox\дз8\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз8\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз8\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз8\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\SkillBox\дз8\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\SkillBox\дз8\information_system\obj\Debug\information_system.csproj.CopyComplete

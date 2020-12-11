@@ -1,0 +1,12 @@
+C:\Skillbox\дз17\HomeWork17\EntityLib\bin\Debug\netcoreapp3.1\EntityLib.deps.json
+C:\Skillbox\дз17\HomeWork17\EntityLib\bin\Debug\netcoreapp3.1\EntityLib.runtimeconfig.json
+C:\Skillbox\дз17\HomeWork17\EntityLib\bin\Debug\netcoreapp3.1\EntityLib.runtimeconfig.dev.json
+C:\Skillbox\дз17\HomeWork17\EntityLib\bin\Debug\netcoreapp3.1\EntityLib.dll
+C:\Skillbox\дз17\HomeWork17\EntityLib\bin\Debug\netcoreapp3.1\EntityLib.pdb
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.AssemblyInfoInputs.cache
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.AssemblyInfo.cs
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.csproj.CoreCompileInputs.cache
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.dll
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.pdb
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.genruntimeconfig.cache
+C:\Skillbox\дз17\HomeWork17\EntityLib\obj\Debug\netcoreapp3.1\EntityLib.csprojAssemblyReference.cache

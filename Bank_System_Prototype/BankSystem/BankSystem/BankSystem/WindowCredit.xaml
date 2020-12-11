@@ -1,0 +1,41 @@
+﻿<Window x:Class="Bank_System.WindowCredit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bank_System"
+        mc:Ignorable="d"
+        Title="WindowCredit" Height="400" Width="400" Loaded="Window_Loaded" Unloaded="Window_Unloaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="62*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Сумма" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="1" Height="30" Width="56" Grid.Row="1" Margin="10,0,0,0"/>
+        <Label Content="Количество месяцев" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="30" Width="200"/>
+        <TextBox x:Name="BoxSum" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="146" Height="30" PreviewTextInput="BoxSum_PreviewTextInput"/>
+        <TextBox x:Name="BoxCountMonth" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="2"  TextWrapping="Wrap" VerticalAlignment="Center" Width="146" Height="30" PreviewTextInput="BoxCountMonth_PreviewTextInput"/>
+        <Label Content="Первоначальный взнос" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="30" Width="200"/>
+        <TextBox x:Name="BoxFirstSum" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" Width="146" Height="30" IsEnabled="False"/>
+        <Label Content="Ежемесячный платеж" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" Grid.Column="1" Height="30" Width="200"/>
+        <TextBox  x:Name="BoxEvermonth" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="4"  TextWrapping="Wrap" VerticalAlignment="Center" Width="146" Height="30" IsEnabled="False"/>
+        <Label Content="Сумма долга (если не платить)" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Height="30" Width="200"/>
+        <TextBox x:Name="BoxDebt" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="5"  TextWrapping="Wrap" VerticalAlignment="Center" Width="146" Height="30" IsEnabled="False"/>
+        <Button x:Name="ButSeeTest" Content="Предварительный расчет" Grid.Column="1" HorizontalAlignment="Left" Margin="10,9,0,0" Grid.Row="6" VerticalAlignment="Top" Width="160" Height="28" Click="ButSeeTest_Click"/>
+        <Button x:Name="ButCredit" Content="Оформить" Grid.Column="1" HorizontalAlignment="Left" Margin="10,62,0,0" Grid.Row="6" VerticalAlignment="Top" Height="31" Width="70" Click="ButCredit_Click"/>
+        <Button x:Name="ButCancel" Content="Отмена" Grid.Column="1" HorizontalAlignment="Left" Margin="99,63,0,0" Grid.Row="6" VerticalAlignment="Top" Height="30" Width="71" IsCancel="True"/>
+        <TextBox x:Name="BoxTestTime" Grid.Column="2" HorizontalAlignment="Left" Margin="102,10,0,0" Grid.Row="6"  TextWrapping="Wrap" VerticalAlignment="Top" Width="53" Height="28" PreviewTextInput="BoxTestTime_PreviewTextInput"/>
+        <Label Content="+ к DateNow" Grid.Column="2" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="6" VerticalAlignment="Top" Height="28" Width="87"/>
+
+    </Grid>
+</Window>
